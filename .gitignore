@@ -1,0 +1,24 @@
+# Quartus project files
+*.qpf
+*.qsf
+*.qws
+*.qdf
+db/
+incremental_db/
+output_files/
+
+# Backup files
+*.bak
+*.bsf
+
+# Simulation files
+*_sim/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
+.vscode/
