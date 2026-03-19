@@ -58,11 +58,12 @@ Internally, `LEDController.vhd` runs three concurrent processes:
 ## Demo
 
 `NewLEDsTest.asm` runs two demo modes on the DE10-Lite:
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/W9JOOEhFge8)
 
 **Wave mode** (switches off) — A brightness wave sweeps back and forth across the 10 LEDs. Each LED's brightness is computed as a function of its distance from a moving center point, creating a smooth trailing effect using the gamma-corrected PWM.
 
 **Flash mode** (any switch on) — Even and odd LEDs alternate flashing at maximum brightness, demonstrating the independent flash control per LED.
+
+[![Demo Video](https://img.youtube.com/vi/W9JOOEhFge8/maxresdefault.jpg)](https://youtu.be/W9JOOEhFge8)
 
 ## How It Works
 
