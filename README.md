@@ -75,6 +75,10 @@ Internally, `LEDController.vhd` runs three concurrent processes:
 
 VHDL · Intel Quartus Prime · DE10-Lite (Cyclone V) · SCOMP Architecture · PWM · FPGA
 
+## Contributors
+
+Walter, Alena, and Eric
+
 ## Course
 
 ECE 2031 — Digital Design Lab, Georgia Tech (Spring 2025)
